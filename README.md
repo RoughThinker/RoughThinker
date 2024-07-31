@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there I am RoughThinker 👋
 
-<!--
-**RoughThinker/RoughThinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**A aspiring programmer from turkey🇹🇷**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+- 🔭 I am currently working on GameMaker
+- 🌱 As of now I am learning GML and will move on to C, C++, C#, javascript and many others
+- 👯 If you want to be friends we can talk from my discord
+- 🤔 I am looking for help with GML
+- 💬 I havent made any project of my own yet but when I make any I will upload them all to GitHub
+- 📫 You can reach me from discord https://discordlookup.com/user/307604228040294403
+- 😄 Always learn new things you stop improving when you stop learning
+- ⚡ One little funny fun fact about me: I got into coding from a video titled "why you shouldn't start coding"
+
